@@ -29,6 +29,10 @@ form input, form button {
     background: white;
 }
 
+input::placeholder {
+    font-size: 25px;
+}
+
 form input:focus {
     outline: none;
 }
